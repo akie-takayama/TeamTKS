@@ -35,12 +35,14 @@
                     <p class ="large">自己紹介の登録が完了しました！</p>
                    </div>
                    <div class="wrapper2">
-                    <p class="small">下記内容の自己紹介の登録が完了しました！<br>
-                        管理番:XXXX01<br>
-                        名前：新上剛志<br>
-                        メールアドレス:team_development@test.test<br>
-                        自己紹介の内容を変更するには登録内容一覧画面から編集をして頂くか、管理者へお問い合わせください。
-                    </p>
+                    <p class="small">下記内容の自己紹介の登録が完了しました！</p>
+                    <p class="small">管理番:XXXX01<br>
+                       				 名前：新上剛志<br>
+                       				 フリガナ：シンジョウツヨシ<br>
+                       				 性別：男性<br>
+                       				 趣味：項目1,項目4,項目8,項目9<br>
+                       				 一言：DRIVELINEのサポートメンバーの新上です！よろしくお願いします！<br></p>
+                        			<p class="small">自己紹介の内容を変更するには登録内容一覧画面から編集をして頂くか、管理者へお問い合わせください。</p>
                    </div>
                    <a class ="finishRegister" href="#">TOPへ戻る</a>
                 </div>

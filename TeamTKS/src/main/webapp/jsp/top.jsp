@@ -45,14 +45,12 @@
                         </p>
                     </div>
                     <div class="wrapper">
-                        <div class="children1"><p class ="large">登録内容一覧</p></div>
+                        <div class="children1"><p class ="large">自己紹介登録者一覧</p></div>
                         <div class="children2"><input type="button" size="20" name="register-edit" id="register-edit" value="一覧を編集する"></div>
                     </div>
                     <div class="wrapper-txt">
-                        <p class="small">登録した自己紹介を確認します。<br>
-                                        趣味や一言を定期的に変更してあなたのファンを作りましょう。<br>
-                                        また、相手を惑わせないように不要になった自己紹介は削除して
-                                        最新の自己紹介のみ残すように心がけましょう。
+                        <p class="small">登録している人を確認します。<br>
+                                        登録している人の自己紹介記事をみてみましょう。
                         </p>
                     </div>
                 </div>
