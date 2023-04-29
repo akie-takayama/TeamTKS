@@ -36,7 +36,7 @@
             </div>
             <form action="#" method="post" id="formAction">
                 <div class="wrapper1">
-                    <div class="lbl1"><p class ="sub">ID</p></div>
+                    <div class="lbl1"><p class ="sub">UserID</p></div>
                     <div class="lbl2"><input type="email" size="40" name="email" id="email"></div>
                 </div>
                 <div class="wrapper1">

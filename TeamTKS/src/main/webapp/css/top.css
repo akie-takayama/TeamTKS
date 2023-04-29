@@ -93,6 +93,7 @@ p.large {
   height: 20%;
   display: flex;
   margin: 0 auto;
+  margin-top: 30px;
 }
 
 .children1 {
@@ -122,6 +123,8 @@ p.large {
 
 .small {
   text-align: center;
+  letter-spacing: 0.1em;
+  line-height: 1.7;
 }
 
 .wrapper-txt{
